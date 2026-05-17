@@ -34,7 +34,8 @@ These are the overview looks of the unassembled pieces :
 
 2) Nextly you gotta check out the BOM from the BOM folder and buy the components mentioned theree...
 This is the img of the BOM:
-<img width="1304" height="402" alt="LevitaBomImg" src="https://github.com/user-attachments/assets/9ed54571-3e12-4b0d-8fb1-2157c883ce6f" />
+<img width="1366" height="840" alt="Levita FinalBOMimg" src="https://github.com/user-attachments/assets/b4b9a73a-48d9-47cf-b993-8ab0d11b280c" />
+
 
 3) Then after getting all the components..you need to go to the Circuit Diagram in the Circuit folder and wire up all the products like that.
 This is the image of the Circuit :
