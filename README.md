@@ -22,6 +22,7 @@ Hopefully it would look more clean and better when made in real life..
 
 # Circuit Diagram ::
 
+<img width="2245" height="1587" alt="Levita Circuit" src="https://github.com/user-attachments/assets/cc1d36db-92ce-4d04-805b-60ef7b1b1a1b" />
 
 
 # How to build it?
@@ -40,6 +41,7 @@ This is the img of the BOM:
 3) Then after getting all the components..you need to go to the Circuit Diagram in the Circuit folder and wire up all the products like that.
 This is the image of the Circuit :
 
+<img width="2245" height="1587" alt="Levita Circuit" src="https://github.com/user-attachments/assets/cc1d36db-92ce-4d04-805b-60ef7b1b1a1b" />
 
 
 4) Next and final step..you need to upload the Code from the 'Code' folder in the ESP32(Microcontroller)..
