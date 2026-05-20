@@ -48,7 +48,10 @@ This is the image of the Circuit :
 This is the glimpse of the code:
 
 
+<img width="847" height="883" alt="sc2" src="https://github.com/user-attachments/assets/9cf117ee-adb3-48b6-8789-194b5dc52b71" />
+<img width="1036" height="928" alt="sc" src="https://github.com/user-attachments/assets/ab46a44c-74fb-4d57-99fe-36a27593da5d" />
 
+Refer to Source Code/levita_source.ino for complete code..
 
 
 Hurrahh! You have finally replicated Levita...
