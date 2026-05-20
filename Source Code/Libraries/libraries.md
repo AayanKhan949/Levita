@@ -24,4 +24,4 @@ https://github.com/arduino-libraries/NTPClient/archive/refs/heads/master.zip?
 # AdaFruit GFX :
 https://github.com/adafruit/Adafruit-GFX-Library/archive/refs/heads/master.zip?
 
-# Kindly download these libraries and refer to for the smooth working of the code as well as Levita
+# Kindly download these libraries and refer to Source Code/Libraries/guide.md for the smooth working of the code as well as Levita
