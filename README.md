@@ -56,6 +56,10 @@ Refer to Source Code/levita_source.ino for complete code..
 
 Hurrahh! You have finally replicated Levita...
 
+# Kindly refer to Source Code/Libraries/guide.md
+
+
+
 
 # How to use it?
 To use it..you need to connect the esp of Levita with your phone and then Levita is ready to use. You can play music, display stuff and do many more things..
