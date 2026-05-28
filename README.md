@@ -11,14 +11,12 @@ The device uses a microcontroller that operates the whole thing and has a TFT LC
 # Why it was made?
 It was made so that anything that is generally cased on a normal screen can be displayed in this in air screen that gives a futuristic and premium look that look wayy cool..
 
-# How it may look?
+# How it will look?
 
 <img width="743" height="831" alt="Levita Fn Look-Photoroom" src="https://github.com/user-attachments/assets/ae3dac74-a1d1-40a3-8cf5-012502127317" />
 
-Hopefully it would look more clean and better when made in real life..
-
 # Zine Page ::
-<img width="1410" height="2000" alt="Levita Zine" src="https://github.com/user-attachments/assets/3ba9bc71-1ce4-4417-9fa1-2fbd4e7b1f3a" />
+<img width="1410" height="2000" alt="Levita Zine Final" src="https://github.com/user-attachments/assets/451522f7-d962-40d3-95fd-53d2cbafbf52" />
 
 # Circuit Diagram ::
 
