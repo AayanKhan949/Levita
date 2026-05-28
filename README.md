@@ -16,7 +16,7 @@ It was made so that anything that is generally cased on a normal screen can be d
 <img width="743" height="831" alt="Levita Fn Look-Photoroom" src="https://github.com/user-attachments/assets/ae3dac74-a1d1-40a3-8cf5-012502127317" />
 
 # Zine Page ::
-<img width="1410" height="2000" alt="Levita Zine Final" src="https://github.com/user-attachments/assets/451522f7-d962-40d3-95fd-53d2cbafbf52" />
+ <img width="1410" height="2000" alt="Levita Zine FINAL (1)" src="https://github.com/user-attachments/assets/427b95d0-5d76-4087-ba77-7ac43f868b37" />
 
 # Circuit Diagram ::
 
