@@ -1,3 +1,6 @@
+<img width="2245" height="1587" alt="Levita Header" src="https://github.com/user-attachments/assets/8cc75ddd-cbdd-464c-905d-3235835d1d46" />
+
+
 # Levita
 
 Levita is a cool hologram cube with futuristic looks that floats the display on the glass pyramid..On Levita we can play music from spotify, play cool animations, gif, display time, display weather can many other cool stuff.
