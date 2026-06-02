@@ -50,7 +50,7 @@ This is the image of the Circuit :
 Refer to Source Code/levita_source.ino for complete code..
 
 
-*NOTE FOR REVIEWERS: Kindly refer to CAD.md in the CAD folder for detailed understanding of the project and better understanding about it*
+**NOTE FOR REVIEWERS**: *Kindly refer to CAD.md in the CAD folder for detailed understanding of the project and better understanding about it*
 
 Hurrahh! You have finally replicated Levita...
 
