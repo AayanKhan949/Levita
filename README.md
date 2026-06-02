@@ -13,10 +13,10 @@ It was made so that anything that is generally cased on a normal screen can be d
 
 # How it will look?
 
-<img width="743" height="831" alt="Levita Fn Look-Photoroom" src="https://github.com/user-attachments/assets/ae3dac74-a1d1-40a3-8cf5-012502127317" />
+<img width="1123" height="872" alt="levitalook" src="https://github.com/user-attachments/assets/ffb7691d-ee2d-4d2d-93a8-0ae3d25a0692" />
 
 # Zine Page ::
- <img width="1410" height="2000" alt="Levita Zine FINAL (1)" src="https://github.com/user-attachments/assets/427b95d0-5d76-4087-ba77-7ac43f868b37" />
+<img width="1410" height="2000" alt="Levita Zine NEW" src="https://github.com/user-attachments/assets/1d5420ed-8055-4787-8598-18c433acb455" />
 
 # Circuit Diagram ::
 
@@ -28,8 +28,10 @@ To replicate Levita?
 
 1) We need to first grab the overview from the CAD folder and check it out and find the disassmebled pieces and build them either by 3d Printing or by cutting the acrylic sheets of certain dimensions..
 These are the overview looks of the unassembled pieces :
-<img width="975" height="656" alt="Levita Bottom Img" src="https://github.com/user-attachments/assets/c734a67f-8020-42cd-af9a-eaaeedabd05a" />
-<img width="1326" height="892" alt="levita top img" src="https://github.com/user-attachments/assets/b536154f-a9d7-4159-8cc1-5c01df2f38bf" />
+<img width="1077" height="688" alt="lv1 top1" src="https://github.com/user-attachments/assets/bb0d963a-6047-4b07-9ceb-955acbe90c57" />
+<img width="928" height="581" alt="lv4 top1" src="https://github.com/user-attachments/assets/953199ce-1b09-4f70-b70f-12ad9b3360ea" />
+<img width="1185" height="657" alt="lv3 top1" src="https://github.com/user-attachments/assets/191abf48-34ab-42d4-94c2-4f85b5c277c5" />
+<img width="885" height="631" alt="lv2 top1" src="https://github.com/user-attachments/assets/0fb53469-788a-4b3f-a939-2986c1b69867" />
 
 2) Nextly you gotta check out the BOM from the BOM folder and buy the components mentioned theree...
 This is the img of the BOM:
@@ -43,14 +45,12 @@ This is the image of the Circuit :
 
 
 4) Next and final step..you need to upload the Code from the 'Code' folder in the ESP32(Microcontroller)..
-This is the glimpse of the code:
 
-
-<img width="847" height="883" alt="sc2" src="https://github.com/user-attachments/assets/9cf117ee-adb3-48b6-8789-194b5dc52b71" />
-<img width="1036" height="928" alt="sc" src="https://github.com/user-attachments/assets/ab46a44c-74fb-4d57-99fe-36a27593da5d" />
 
 Refer to Source Code/levita_source.ino for complete code..
 
+
+*NOTE FOR REVIEWERS: Kindly refer to CAD.md in the CAD folder for detailed understanding of the project and better understanding about it*
 
 Hurrahh! You have finally replicated Levita...
 
