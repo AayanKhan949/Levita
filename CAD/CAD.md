@@ -60,7 +60,7 @@
 
 
 
-**3) Levita Cover with electronic** : https://www.tinkercad.com/things/1E9LI8YtAby-levita-top
+**3) Levita Cover with electronic** : https://www.tinkercad.com/things/9xCpj6Be3lN-levita-top-cover
 
 **Screenshots:**
 
