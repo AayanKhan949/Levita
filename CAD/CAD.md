@@ -69,11 +69,19 @@
 
 
 
-**3) Levita Cover without electronic** : https://www.tinkercad.com/things/1X5BLDKDiNd-levita-cover
+**4) Levita Cover without electronic** : https://www.tinkercad.com/things/1X5BLDKDiNd-levita-cover
 
 **Screenshots:**
 
 *Overview*
 <img width="928" height="581" alt="lv4 top1" src="https://github.com/user-attachments/assets/4f204d86-e73d-44b1-868a-4995e7030ed8" />
 
+
+
+**5) Levita Assembled**: https://www.tinkercad.com/things/2bKiujCVU2I-levita-2
+
+**Screenshots:**
+
+*OverView*
+<img width="1123" height="872" alt="levitalook" src="https://github.com/user-attachments/assets/467a4157-0755-4c5c-b110-3437d64a3a71" />
 
