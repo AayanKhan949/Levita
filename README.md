@@ -72,3 +72,7 @@ SPI TFT 3.5" LCD Touch Module(The main display)
 Acrylic sheets to create the floating display..
 
 Note: For detailed knowledge about the required components refer to BOM/FINAL_LEVITA_BOM.csv
+
+
+# Thanks to reviewers :
+*I, Aayan Khan would genuinely like to thank the reviewers of Fallout who guided me in the best path to make the project more polished, better and ultimately transform this project from an idea to product..Thanks a lot to all of you*
