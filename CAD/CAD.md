@@ -1,7 +1,7 @@
 
 # LEVITA CAD #
 
-*This README consists of the CAD files links of LEVITA as the CAD is not getting exported to Autodesk Fusion to get the .f3d file and when tried it shows a error called "DESIGN TOO COMPLEX". Thus I had no other option left and did this coz I got no help even after raising the issue in slack channels "fallout", "fallout-help", "hardware" and even in DM of some reviewers nut that wasn't helpful or working.*
+*This README consists of the CAD files links of LEVITA as the CAD is not getting exported to Autodesk Fusion to get the .f3d file and when tried it shows a error called "DESIGN TOO COMPLEX". Thus I had no other option left and did this coz I got no help even after raising the issue in slack channels "fallout", "fallout-help", "hardware" and even in DM of some reviewers but that wasn't helpful or working.*
 
 <img width="1280" height="960" alt="WhatsApp Image 2026-06-02 at 3 28 42 PM" src="https://github.com/user-attachments/assets/f499a630-5f84-459c-bff1-5f8c6f562e23" />
 
