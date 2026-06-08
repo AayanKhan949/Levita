@@ -1,4 +1,4 @@
-<img width="2245" height="1587" alt="Levita Header" src="https://github.com/user-attachments/assets/8cc75ddd-cbdd-464c-905d-3235835d1d46" />
+<img width="1565" height="421" alt="image" src="https://github.com/user-attachments/assets/75fe7fe7-7e82-40ac-a760-6905925ee515" /><img width="2245" height="1587" alt="Levita Header" src="https://github.com/user-attachments/assets/8cc75ddd-cbdd-464c-905d-3235835d1d46" />
 
 
 # Levita
@@ -53,7 +53,7 @@ This is the image of the Circuit :
 Refer to Source Code/levita_source.ino for complete code..
 
 
-**NOTE FOR REVIEWERS**: *Kindly refer to CAD.md in the CAD folder for detailed understanding of the project and better understanding about it*
+**NOTE FOR REVIEWERS**: *Kindly refer to CAD.md in the CAD folder for detailed understanding of the project and better understanding about it. The .step files of LEVITA are uploaded in this Google Drive link :https://drive.google.com/drive/folders/1LsJ3b1WP17QoAA-G7loWGQeGdtx5VZEn?usp=sharing.*
 
 Hurrahh! You have finally replicated Levita...
 
@@ -73,6 +73,10 @@ ESP32(Brain of the whole project)
 SPI TFT 3.5" LCD Touch Module(The main display)
 
 Acrylic sheets to create the floating display..
+
+~With lots of Love,
+~Aayan Khan,
+~A teen from India.
 
 Note: For detailed knowledge about the required components refer to BOM/FINAL_LEVITA_BOM.csv
 
