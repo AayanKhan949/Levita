@@ -1,4 +1,4 @@
-<img width="1565" height="421" alt="image" src="https://github.com/user-attachments/assets/75fe7fe7-7e82-40ac-a760-6905925ee515" /><img width="2245" height="1587" alt="Levita Header" src="https://github.com/user-attachments/assets/8cc75ddd-cbdd-464c-905d-3235835d1d46" />
+<img width="2245" height="1587" alt="Levita Header" src="https://github.com/user-attachments/assets/8cc75ddd-cbdd-464c-905d-3235835d1d46" />
 
 
 # Levita
