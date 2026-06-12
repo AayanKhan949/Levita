@@ -19,7 +19,7 @@ It was made so that anything that is generally cased on a normal screen can be d
 <img width="1123" height="872" alt="levitalook" src="https://github.com/user-attachments/assets/ffb7691d-ee2d-4d2d-93a8-0ae3d25a0692" />
 
 # Zine Page ::
-<img width="1410" height="2000" alt="Levita Zine NEW" src="https://github.com/user-attachments/assets/1d5420ed-8055-4787-8598-18c433acb455" />
+<img width="1410" height="2000" alt="Levita Zine NEW_Final" src="https://github.com/user-attachments/assets/0f7e293c-6254-495a-b821-8ee57d3d979f" />
 
 # Circuit Diagram ::
 
