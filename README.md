@@ -53,7 +53,7 @@ This is the image of the Circuit :
 Refer to Source Code/levita_source.ino for complete code..
 
 
-**NOTE FOR REVIEWERS**: *Kindly refer to CAD.md in the CAD folder for detailed understanding of the project and better understanding about it. The .step files of LEVITA are uploaded in this Google Drive link :https://drive.google.com/drive/folders/1LsJ3b1WP17QoAA-G7loWGQeGdtx5VZEn?usp=sharing.*
+**NOTE FOR REVIEWERS**: *Kindly refer to CAD.md in the CAD folder for detailed understanding of the project and better understanding about it. The .step files of LEVITA are uploaded [here](https://github.com/AayanKhan949/Levita/tree/main/CAD/step%20Files).*
 
 Hurrahh! You have finally replicated Levita...
 
