@@ -1,4 +1,9 @@
 <img width="2245" height="1587" alt="Levita Header" src="https://github.com/user-attachments/assets/8cc75ddd-cbdd-464c-905d-3235835d1d46" />
+![License](https://img.shields.io/badge/license-OHL_v2-green.svg)
+![](https://img.shields.io/badge/Firmwire-v1.1-red)
+![pcb](https://img.shields.io/badge/PCB-hand_wired-blue)
+![features](https://img.shields.io/badge/input-8_capacitive-cyan)
+
 
 
 # Levita
